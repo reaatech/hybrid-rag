@@ -47,7 +47,7 @@
     "@reaatech/agent-budget-spend-tracker": "^0.1.1",
     "@reaatech/agent-budget-engine": "^0.1.1",
     "@reaatech/guardrail-chain": "^0.1.0",
-    "@modelcontextprotocol/sdk": "^1.29.0",
+    "@modelcontextprotocol/sdk": "^1.30.0",
     "zod": "^4.4.3"
   },
   "devDependencies": {
