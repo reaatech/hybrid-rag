@@ -48,7 +48,7 @@
     "@reaatech/agent-budget-engine": "^0.1.1",
     "@reaatech/guardrail-chain": "^0.1.0",
     "@modelcontextprotocol/sdk": "^1.29.0",
-    "zod": "^4.4.3"
+    "zod": "^4.5.4"
   },
   "devDependencies": {
     "tsup": "^8.4.0",
